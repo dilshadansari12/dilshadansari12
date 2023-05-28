@@ -46,7 +46,9 @@ fields_of_interests:
     "Machine Learning",
     "UI/UX"
   ]
-
+2024 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+```
   
 ---  
   
