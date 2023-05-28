@@ -24,11 +24,10 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.gifer.com/RC1A.gif">
+  <img src= "https://files.codingninjas.in/438375-17407.webp">
 </p>
 
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/RC1A" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
----
+
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
