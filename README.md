@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://files.codingninjas.in/438375-17407.webp">
+  <img src= "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.2.720988941.1672488382&semt=sph">
 </p>
 
 
