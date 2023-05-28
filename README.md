@@ -1,4 +1,4 @@
-
+<div style="background-color:black;">
 
 <h1 align="center">Hi 👋, I'm Dilshad Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshadansari12&show_icons=true&locale=en" alt="dilshadansari12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshadansari12&" alt="dilshadansari12" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshadansari12&" alt="dilshadansari12" /></p> </div>
