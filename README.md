@@ -66,16 +66,5 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="45" height="45"/>
-<img src="https://pbs.twimg.com/profile_images/1639260841554984961/eHXkbcTC_400x400.jpg" alt="tailwind" width="45" height="45"/>
-  
-  
- 
-</p>
-
----
-
-<h2> 📈 &nbsp;My GitHub History!</h2>
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://pbs.twimg.com/profile_images/1639260841554984961/eHXkbcTC_400x400.jpg" alt="tailwind" width="45" height="45"/> 
 </p>
