@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg&ga=GA1.2.720988941.1672488382&semt=sph">
+  <img src= "https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif">
 </p>
 
 
