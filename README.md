@@ -25,7 +25,7 @@
 
 
 
-# 💫 About Me Interests:
+# 💫 About Me & My Interests:
 
 ```yaml
 name: Dilshad Ansari ;
