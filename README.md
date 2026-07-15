@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Think → Code → Ship → Improve&fontSize=40&animation=twinkling" alt="Md Dilshad profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Think%20%E2%86%92%20Code%20%E2%86%92%20Ship%20%E2%86%92%20Improve&fontSize=40&animation=twinkling" alt="Md Dilshad profile header" />
 </p>
 
 <!-- Title -->
