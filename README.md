@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Think → Code → Ship → Improve&fontSize=40&animation=twinkling" alt="Md Dilshad profile header" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Think → Code → Ship → Improve&fontSize=40&animation=twinkling" alt="Md Dilshad profile header" />
-</p>
-
 <!-- Title -->
 <h3 align="center">
     <samp>
