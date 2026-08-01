@@ -49,7 +49,7 @@ fields_of_interests:
     "AI",
     "UI/UX"
   ]
-2027 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+2027 Learning Goals: ["AI","Docker", "Kubernetes", "AWS"]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
   
