@@ -49,7 +49,7 @@ fields_of_interests:
     "AI",
     "UI/UX"
   ]
-2027 Learning Goals: ["AI","Docker", "Kubernetes", "AWS","Jenkins"]
+2027 Learning Goals: ["AI","Docker", "Kubernetes", "AWS","Jenkins", "PYTHON"]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
   
